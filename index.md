@@ -3,7 +3,7 @@ layout: cv
 title: Jason Deland's CV
 ---
 # Jason Deland
-Physicist, Mathematician, Cambridge professor.
+Test, Mathematician, Cambridge professor.
 
 <div id="webaddress">
   <a href="jaydelabnd@gmail.com">jaydeland@gmail.com</a>
@@ -58,7 +58,7 @@ Associate, *French Academy of Science*, Paris, France
 ### Journals
 
 `1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Newton Sir I, De analysi per æquationes numero terminorum infinitas.
 
 `1669`
 Lectiones opticæ.
