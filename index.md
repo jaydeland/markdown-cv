@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jason Deland's CV
 ---
-# Isaac Newton
+# Jason Deland
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
